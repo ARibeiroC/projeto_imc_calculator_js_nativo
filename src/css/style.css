@@ -96,6 +96,7 @@ button {
 #imc-number {
     font-size: 2.4rem;
     margin: .6rem 0;
+    text-align: center;
 }
 
 #imc-info {
@@ -107,7 +108,7 @@ button {
     color: #ccc;
 }
 
-#imc-info span{
+#imc-number span{
     color: #e90ec4;
     font-weight: 900;
     font-size: 2.2rem;
@@ -117,6 +118,7 @@ button {
 #result-container h3 {
     margin-top: 1rem;
     color: #dfdfdf;
+    text-align: center;
 }
 
 #imc-table {
