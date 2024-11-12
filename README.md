@@ -2,7 +2,7 @@
 
 ### Projeto criado a partir do curso "FORMAÇÃO FRONT-END", onde criei uma calculadora de IMC (Índice de Massa Corporal) do zero, com javascript vanilla.
 
-### Nele pude testar meus conhecimento enquanto estudava também o javascript, criando soluções de acordo com as difículdades que iam aparecendo, ou seja, não simplesmente fiquei copiando o código, mas implementei algumas mudanças para que o código não ficasse igual, obtendo o mesmo resultado ou bem semelhante com um código diferente.
+### Nele pude testar meus conhecimento enquanto estudava também o javascript, criando soluções de acordo com as difículdades que iam aparecendo, ou seja, não simplesmente fiquei copiando o código, mas implementei algumas mudanças para que o código não ficasse igual, obtendo o mesmo resultado ou bem semelhante com um código diferente, principalmente pela questão de modularização do projeto.
 
 ## Tecnologias Usadas
 
