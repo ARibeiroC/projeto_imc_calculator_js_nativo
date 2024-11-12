@@ -1,0 +1,6 @@
+export const imcTable = document.querySelector('#imc-table')
+export const heightInput = document.querySelector('#height')
+export const weightInput = document.querySelector('#weight')
+export const calcBtn = document.querySelector('#calc-btn')
+export const clearBtn = document.querySelector('#clear-btn')
+export const backBtb = document.querySelector('#back-btn')

@@ -91,10 +91,6 @@ button {
 }
 
 #result-container {
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    align-items: center;
 }
 
 #imc-number {
@@ -124,6 +120,8 @@ button {
 }
 
 #imc-table {
+    display: flex;
+    flex-direction: column;
     margin: 1.5rem 0;
     font-size: .8rem;
     
@@ -136,14 +134,14 @@ button {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: .5rem;
-    padding-bottom: .5rem;
+    padding: .5rem 0;
     border-bottom: 1px solid #444;
 }
 
 .table-header h4, 
 .table-data p {
     flex: 1;
+    text-align: center;
 }
 
 .table-header h4 :nth-child(3)
@@ -152,22 +150,12 @@ button {
 }
 
 #back-btn {
-    align-self: center;
+    margin: 0 auto;
+    width: 100%;
 }
 
-.good{
-    color: #12db34;
-}
-
-.low{
-    color: #dbce12;
-}
-
-.medium{
-    color: #db6212;
-}
-
-.high{
-    color: #db1912;
+.result{
+    background-color: azure;
+    color: #e90ec4;
 }
 
